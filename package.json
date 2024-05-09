@@ -1,6 +1,7 @@
 {
-  "name": "student_management_system_by_fairy",
-  "version": "1.0.0",
+  "name": "calculator_by_fairy",
+  "version": "1.0.2",
+  "description": "a simple calculator with typescript, node.js and inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -8,11 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "description": "",
+  "license": "MIT",
   "dependencies": {
-    "chalk": "^5.3.0",
-    "inquirer": "^9.2.20"
+    "calculator-007": "^1.0.1",
+    "inquirer": "^9.2.16"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
